@@ -1,0 +1,56 @@
+\documentclass[9pt, letterpaper]{article}
+\usepackage{geometry}
+\usepackage{sectsty}
+\usepackage[table]{xcolor}
+\usepackage{bigstrut}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{nonfloat}
+\usepackage[demo]{graphicx}
+\usepackage{blindtext}
+\renewcommand{\familydefault}{\rmdefault}
+\geometry{
+	left=1.25in,
+	right=1.25in,
+	top=1.3in,
+	bottom=0.6in
+}
+\setlength{\footskip}{20pt}
+\sectionfont{\fontsize{10pt}{10pt}\selectfont}
+
+\makeatletter
+\newenvironment{tablehere}
+{\def\@captype{table}}
+{}
+
+\newenvironment{figurehere}
+{\def\@captype{figure}}
+{}
+\makeatother
+
+\newcommand\myfigure[1]{%
+	\medskip\noindent\begin{minipage}{\columnwidth}
+		\centering%
+		#1%
+		%figure,caption, and label go here
+	\end{minipage}\medskip}
+
+\include{cover}
+\begin{document}
+	\maketitle
+	\begin{center}
+		\textbf{ABSTRACT}
+	\end{center}
+	
+	\input{abstract}
+	
+	\begin{multicols}{2}
+		\input{paper}
+	\end{multicols}
+	
+	\begin{center}
+		\textbf{Summary}
+	\end{center}
+	\input{summary}
+\end{document}
