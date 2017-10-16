@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.8.30)  14 OCT 2017 02:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.8.30)  16 OCT 2017 19:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -141,29 +141,6 @@ LaTeX Font Info:    Try loading font information for OT1+phv on input line 42.
 (c:/texlive/2017/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 42
-.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11.04124> on input line 42.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.72884> on input line 42.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.52061> on input line 42.
-
-! Double superscript.
-\@author ...nd~^3Surya~Michrandi~Nasution \] \[^1^
-                                                  2^3Departemen Teknik Elekt...
-l.42 \maketitle
-               
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-! Double superscript.
-\@author ...~^3Surya~Michrandi~Nasution \] \[^1^2^
-                                                  3Departemen Teknik Elektro...
-l.42 \maketitle
-               
-I treat `x^1^2' essentially like `x^1{}^2'.
-
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8.03> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 42.
 LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 42.
@@ -173,38 +150,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5.62097> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <4.015> on input line 42.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 42
+.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11.04124> on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.72884> on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.52061> on input line 42.
 LaTeX Font Info:    Try loading font information for U+pzd on input line 42.
+
 (c:/texlive/2017/texmf-dist/tex/latex/psnfss/upzd.fd
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
-! Double superscript.
-\@author ...nd~^3Surya~Michrandi~Nasution \] \[^1^
-                                                  2^3Departemen Teknik Elekt...
-l.42 \maketitle
-               
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-! Double superscript.
-\@author ...~^3Surya~Michrandi~Nasution \] \[^1^2^
-                                                  3Departemen Teknik Elektro...
-l.42 \maketitle
-               
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-! Double superscript.
-\@author ...nd~^3Surya~Michrandi~Nasution \] \[^1^
-                                                  2^3Departemen Teknik Elekt...
-l.42 \maketitle
-               
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-! Double superscript.
-\@author ...~^3Surya~Michrandi~Nasution \] \[^1^2^
-                                                  3Departemen Teknik Elektro...
-l.42 \maketitle
-               
-I treat `x^1^2' essentially like `x^1{}^2'.
-
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11.04124> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <11.04124> not available
@@ -230,32 +188,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <4.91833> on input line 103.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <3.51312> on input line 103.
-[1{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+ [1{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ] (./jatit.aux) ) 
 Here is how much of TeX's memory you used:
- 1291 strings out of 492990
- 22877 string characters out of 6136334
- 78347 words of memory out of 5000000
+ 1292 strings out of 492990
+ 22883 string characters out of 6136334
+ 77347 words of memory out of 5000000
  4889 multiletter control sequences out of 15000+600000
- 49425 words of font info for 100 fonts, out of 8000000 for 9000
+ 50579 words of font info for 101 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 31i,8n,31p,248b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,8n,31p,248b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/te
-xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/201
-7/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2017/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/h
-elvetic/uhvb8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.
-pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb><c:/texliv
-e/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2017/texmf-di
-st/fonts/type1/urw/palatino/uplri8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1
-/urw/zapfding/uzdr.pfb>
-Output written on jatit.pdf (1 page, 96276 bytes).
+xlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2017/texm
+f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2017/texmf-dist/fonts/ty
+pe1/urw/helvetic/uhvro8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/palati
+no/uplr8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+<c:/texlive/2017/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on jatit.pdf (1 page, 57984 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
